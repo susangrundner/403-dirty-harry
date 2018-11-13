@@ -1,0 +1,41 @@
+/*****505 PAGE BODY*****/
+
+body  {
+  background-image: url('../img/dirty-harry-clint-eastwood.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+}
+
+/*****505 MESSAGE******/
+
+.container  {
+  width: 1000px;
+  padding-top: 10px;
+  margin-bottom: 200px;
+  margin-left: 90px;
+}
+
+p {
+  font-family: 'Alfa Slab One', cursive;
+  color: #000000;
+  text-align: left;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-left: 25px;
+  margin-right: 50px;
+}
+
+h1  {
+  font-family: 'Monoton', cursive;
+  color: #000000;
+  font-size: 70px;
+  margin-bottom: 0px;
+  margin-top: 80px;
+}
+
+#sign-off  {
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
